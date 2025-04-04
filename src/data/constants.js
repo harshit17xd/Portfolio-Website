@@ -10,7 +10,7 @@ export const Bio = {
     "I’m someone who loves a good challenge and is excited to try new things. I enjoy learning and always work hard to do a great job. I stay positive, keep growing, and want to help out and do awesome stuff!",
   github: "https://github.com/harshit17xd",
   resume:
-    "https://drive.google.com/file/d/1VZDdfMuE3LdBepT5g73xQLqH0DLC7Szc/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PYYDaUJhYt7WpXp7ufJgJ3bzEP8yCZaa/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/harshit-sharma-588582247/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/_harshit.sharma/",
