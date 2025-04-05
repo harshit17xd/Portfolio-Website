@@ -388,7 +388,7 @@ export const education = [
     school: "Chitkara University Institute of Engineering and Technology, Punjab",
     date: "June 2022 - June 2026",
     grade: "7.97 CGPA",
-    desc: "I’m studying for a Bachelor’s degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I’ve finished 6 semesters with a CGPA of 7.97. I’ve taken classes like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, plus a few more.",
+    desc: "I’m studying for a Bachelor’s degree in Computer Science and Engineering at Chitkara University Institute of Engineering and Technology, Punjab. I’ve finished 6 semesters with a CGPA of 7.97. I’ve taken classes like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, plus a few more.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
